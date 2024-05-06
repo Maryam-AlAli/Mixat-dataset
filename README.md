@@ -36,9 +36,6 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-S
 ## Acknowledgement
 We thank Mr. Mohammad Al Awadhi, host of `The Direction' podcast, and Ms. Hessa Alsuwaidi, host of `Think With Hessa' podcast for allowing us to use their content for creating a dataset to support  academic research on Emirati speech. 
 
-## Contributors
-- Maryam Al Ali ([maryam.alali@mbzuai.ac.ae](mailto:maryam.alali@mbzuai.ac.ae))
-- Hanan Aldarmaki ([hanan.aldarmaki@mbzuai.ac.ae](mailto:hanan.aldarmaki@mbzuai.ac.ae))
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
