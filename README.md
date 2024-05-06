@@ -1,7 +1,17 @@
 # Mixat: A Data Set of Bilingual Emirati-English Speech
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Mixat is a dataset of Emirati speech code-mixed with English. The dataset consists of 15 hours of speech derived from two public podcasts featuring native Emirati speakers. The data collection process, annotation, and dataset statistics are described in detail in the accompanying paper.
+Mixat is a dataset of Emirati speech code-mixed with English. The dataset consists of 15 hours of speech derived from two public podcasts featuring native Emirati speakers. The data collection process, annotation, and dataset statistics are described in detail in the accompanying paper. If you use this data set, please cite the following paper:
+
+```
+@inproceedings{mixat,
+  title={Mixat: A Data Set of Bilingual Emirati-English Speech},
+  author={Al Ali, Maryam and Aldarmaki, Hanan},
+  booktitle={SIGUL 2024: 3rd Annual Meeting of the ELRA/ISCA Special Interest Group on Under-resourced Languages, a Satellite Workshop of LREC-COLING 2024},
+  year={2024}
+}
+```
+
 
 
 ## Data Set Statistics
@@ -34,7 +44,7 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial-S
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 ## Acknowledgement
-We thank Mr. Mohammad Al Awadhi, host of The Direction' podcast, and Ms. Hessa Alsuwaidi, host of Think With Hessa podcast for allowing us to use their content for creating a dataset to support  academic research on Emirati speech. 
+We thank Mr. Mohammad Al Awadhi, host of The Direction podcast, and Ms. Hessa Alsuwaidi, host of Think With Hessa podcast for allowing us to use their content for creating a dataset to support  academic research on Emirati speech. 
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
