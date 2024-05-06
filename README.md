@@ -23,10 +23,14 @@ The audio content for Mixat was sourced from two podcasts produced by native Emi
 The Mixat dataset is publicly available for research purposes. 
 
 ## File Structure
-- The audio files are located in the `audio_files` directory.
+- Mixat - Part 1.zip contains the audio files for the first part of the Mixat dataset.
+- Mixat - Part 2.zip contains the audio files for the second part of the Mixat dataset.
 - Transcriptions are stored in the `metadata.csv` file.
 
-## Contributors
+## License
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). For more information, please refer to the [LICENSE-CC-BY-NC-SA]([link-to-license-file](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)).
 
+
+## Contributors
 - Maryam Al Ali ([maryam.alali@mbzuai.ac.ae](mailto:maryam.alali@mbzuai.ac.ae))
 - Hanan Aldarmaki ([hanan.aldarmaki@mbzuai.ac.ae](mailto:hanan.aldarmaki@mbzuai.ac.ae))
