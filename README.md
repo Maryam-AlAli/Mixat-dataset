@@ -31,7 +31,7 @@ Mixat is a dataset of Emirati speech code-mixed with English. The dataset consis
     - Code-switched sentences: 805
 
 ## Usage 
-The Mixat dataset is publicly available for research purposes. We recommend using Part 1 for training, and Part 2 for testing. 
+The Mixat dataset is publicly available for research purposes only. We recommend using Part 1 for training, and Part 2 for testing. 
 
 ## File Structure
 - `Mixat - Part 1.zip` contains the audio files, in .wav format, for Part 1.
