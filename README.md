@@ -30,7 +30,10 @@ The Mixat dataset is publicly available for research purposes. We recommend usin
 
 ## License
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+## Acknowledgement
 
 ## Contributors
 - Maryam Al Ali ([maryam.alali@mbzuai.ac.ae](mailto:maryam.alali@mbzuai.ac.ae))
